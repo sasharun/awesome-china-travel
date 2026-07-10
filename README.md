@@ -32,6 +32,7 @@
 ## 📚 Complete Guides
 
 - [China Survival Kit](https://chinasurvivalkit.com) ⭐ - **All-in-one guide with 15+ interactive tools** - Essential apps setup, payment guides, emergency cards, offline maps
+- [YouChina](https://www.you-china.com/en) - Source-bound China entry-readiness guide for first-time visitors: visa/transit prep, eSIM vs VPN, Alipay/WeChat Pay, maps/apps, and airport arrival.
 - [The China Travel Guide](https://www.travelchinaguide.com/) - Comprehensive travel information
 - [China Highlights](https://www.chinahighlights.com/) - Tour planning and travel tips
 - [WikiTravel China](https://wikitravel.org/en/China) - Community-driven travel guide
