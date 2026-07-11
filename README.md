@@ -88,6 +88,7 @@ Policies change — always verify with an embassy or [China National Immigration
 - **Amap** - Best routing algorithms
 - **Apple Maps** - Works well in major cities
 - **Maps.me** - [iOS](https://apps.apple.com/app/maps-me/id510623322) | [Android](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro) - Offline maps
+- ** [PuraSIM](https://purasim.com/en)** - Prepaid travel eSIMs for mobile data abroad, with country, regional, and global plans.
 
 ### Translation
 - **Google Translate** - [iOS](https://apps.apple.com/app/google-translate/id414706506) | [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.translate) - Works offline, camera translation
