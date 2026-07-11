@@ -1,9 +1,24 @@
 # Awesome China Travel 🇨🇳 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![Stars](https://img.shields.io/github/stars/sasharun/awesome-china-travel?style=social)](https://github.com/sasharun/awesome-china-travel) ![Last update](https://img.shields.io/badge/last%20update-2026--07-blue.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+
 > A curated list of essential resources, tools, and guides for traveling and living in China as a foreigner
+
+
+## 🛂 Visa & Entry (2025–2026)
+
+Policies change — always verify with an embassy or [China National Immigration Administration](https://en.nia.gov.cn/) / airline.
+
+- **Visa-free / transit policies** — Many nationalities now use expanded **visa-free entry** or **144-hour / 240-hour visa-free transit** at designated ports; check your passport country and city of entry before flying.
+- [China Travel Official](https://www.travelchina.gov.cn/) — Government travel information portal (availability varies by language).
+- [IATA Travel Centre](https://www.iatatravelcentre.com/) — Passport/visa requirements checker used by airlines.
+- [Trip.com China visa info hub](https://www.trip.com/) — Practical booking + entry tips (cross-check officially).
+
+**Arrival checklist:** eSIM or roaming data → Alipay/WeChat tourist payment → metro/ride-hailing → hotel registration (hotels usually handle police registration).
 
 ## Contents
 
+- [🛂 Visa & Entry](#-visa--entry-20252026)
 - [📚 Complete Guides](#-complete-guides)
 - [📱 Essential Apps](#-essential-apps)
   - [Super Apps](#super-apps)
