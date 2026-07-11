@@ -160,6 +160,15 @@ Policies change — always verify with an embassy or [China National Immigration
 
 ## 🛜 Internet & VPN
 
+### eSIM & data (before you land)
+
+- [Airalo](https://www.airalo.com/) — Travel eSIM marketplace (China packages vary by time).
+- [Holafly](https://esim.holafly.com/) — Unlimited-style travel eSIMs (verify China coverage).
+- [Trip.com eSIM](https://www.trip.com/) — English UI data eSIMs for China.
+- Carrier roaming — Enable before departure as backup if eSIM fails at the airport.
+
+
+
 ### VPN Services (Use before arriving)
 - [ExpressVPN](https://www.expressvpn.com/) ⭐ - Most reliable for China
 - [NordVPN](https://nordvpn.com/) - Good backup option
