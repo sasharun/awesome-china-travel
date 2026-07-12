@@ -12,6 +12,7 @@ Policies change — always verify with an embassy or [China National Immigration
 - **Visa-free / transit policies** — Many nationalities now use expanded **visa-free entry** or **144-hour / 240-hour visa-free transit** at designated ports; check your passport country and city of entry before flying.
 - [China Travel Official](https://www.travelchina.gov.cn/) — Government travel information portal (availability varies by language).
 - [IATA Travel Centre](https://www.iatatravelcentre.com/) — Passport/visa requirements checker used by airlines.
+- [China Visa Checker](https://www.chinafortravelers.com/tools/visa-checker/) — Free eligibility checker covering 103 nationalities (visa-free / 240-hour transit / visa required), verified daily.
 - [Trip.com China visa info hub](https://www.trip.com/) — Practical booking + entry tips (cross-check officially).
 
 **Arrival checklist:** eSIM or roaming data → Alipay/WeChat tourist payment → metro/ride-hailing → hotel registration (hotels usually handle police registration).
@@ -109,6 +110,7 @@ Policies change — always verify with an embassy or [China National Immigration
 - [China Train Guide](https://www.chinahighlights.com/china-trains/) - Types of trains explained
 - [Trip.com Train Booking](https://www.trip.com/trains/) - English booking interface
 - [Seat 61 - China](https://www.seat61.com/China.htm) - Detailed train travel guide
+- [China Rail Map](https://www.chinafortravelers.com/tools/rail-map/) - Interactive high-speed rail route map for 25 major cities with fares, durations and station names, refreshed monthly
 
 ### City Transport
 - [Beijing Subway Map](http://www.bjsubway.com/en/) - Official English map
