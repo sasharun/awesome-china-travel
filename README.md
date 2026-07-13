@@ -287,6 +287,7 @@ Policies change — always verify with an embassy or [China National Immigration
 - [Time Zone Converter](https://www.timeanddate.com/worldclock/china) - China time zones
 - [Chinese Calendar](https://www.travelchinaguide.com/essential/holidays/) - Public holidays
 - [Air Quality Index](https://aqicn.org/map/china/) - Real-time air quality
+- [Wander China Planner](https://github.com/daligao/wander-china) - Free drag-and-drop itinerary builder for 31 Chinese cities. Verified opening hours, ticket prices and metro routes. No Chinese needed.
 
 ### Document Tools
 - [Chinese Visa Photo Tool](https://www.persofoto.com/passport-photos/visa/visa-china) - Visa photo requirements
@@ -311,3 +312,4 @@ Your contributions are always welcome! Please feel free to submit a Pull Request
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work.
+
