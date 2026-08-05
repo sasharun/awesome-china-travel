@@ -67,6 +67,7 @@
 - **Microsoft Teams** - Business communication without VPN
 - **DingTalk (钉钉)** - [iOS](https://apps.apple.com/app/dingtalk/id930368978) - Business communication in China
 - **QQ** - [iOS](https://apps.apple.com/app/qq/id444934666) | [Android](https://play.google.com/store/apps/details?id=com.tencent.mobileqq) - Alternative to WeChat
+- [iMessage & FaceTime in China](https://www.you-china.com/en/wiki/does-imessage-facetime-work-in-china) - Dated feature-by-feature guide for Apple users
 
 ### Navigation
 - **Baidu Maps** - Most comprehensive local data
