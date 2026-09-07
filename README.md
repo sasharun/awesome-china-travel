@@ -47,6 +47,7 @@ Policies change — always verify with an embassy or [China National Immigration
 ## 📚 Complete Guides
 
 - [China Survival Kit](https://chinasurvivalkit.com) ⭐ - **All-in-one guide with 15+ interactive tools** - Essential apps setup, payment guides, emergency cards, offline maps
+- [China Neighbor](https://chinaneighbor.com) - Practical guides for foreigners: payments, healthcare, renting, and the 240-hour visa-free transit, with free tools and official-source citations
 - [The China Travel Guide](https://www.travelchinaguide.com/) - Comprehensive travel information
 - [China Highlights](https://www.chinahighlights.com/) - Tour planning and travel tips
 - [WikiTravel China](https://wikitravel.org/en/China) - Community-driven travel guide
@@ -223,6 +224,7 @@ Policies change — always verify with an embassy or [China National Immigration
 
 ### Health Resources
 - [China CDC](http://www.chinacdc.cn/en/) - Health advisories
+- [China Neighbor Health Guide](https://chinaneighbor.com/guide/healthcare/healthcare-costs-for-foreigners-in-china/) - Real healthcare costs for foreigners: public vs private hospitals, insurance basics
 - [HealthCare International](https://www.healthcareinternational.com/) - Medical insurance
 - [Smart Air Filters](https://smartairfilters.com/) - Air quality solutions
 
@@ -283,6 +285,8 @@ Policies change — always verify with an embassy or [China National Immigration
 
 ### Practical Tools
 - [China Survival Kit](https://chinasurvivalkit.com) - Interactive tools: currency converter, size converter, taxi cards, allergy cards
+- [240-Hour Visa-Free Transit Checker](https://chinaneighbor.com/tools/144-visa-checker/) - Check eligibility by nationality, port and itinerary (2026 policy)
+- [eSIM Data Calculator](https://chinaneighbor.com/tools/esim-data-calculator/) - Estimate how much China travel data you actually need
 - [XE Currency](https://www.xe.com/currency/cny-chinese-yuan/) - CNY exchange rates
 - [Time Zone Converter](https://www.timeanddate.com/worldclock/china) - China time zones
 - [Chinese Calendar](https://www.travelchinaguide.com/essential/holidays/) - Public holidays
