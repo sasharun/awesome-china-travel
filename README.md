@@ -10,7 +10,8 @@
 Policies change — always verify with an embassy or [China National Immigration Administration](https://en.nia.gov.cn/) / airline.
 
 - **Visa-free / transit policies** — Many nationalities now use expanded **visa-free entry** or **144-hour / 240-hour visa-free transit** at designated ports; check your passport country and city of entry before flying.
-- [China Travel Official](https://www.travelchina.gov.cn/) — Government travel information portal (availability varies by language).
+- [China Travel Official](https://www.travelchina.gov.cn/) — Government travel information portal (availability varies by - [17Talk — China Guides for Foreigners](https://17talk.org/guides) — Practical, source-cited guides on mobile payments, SIM cards, high-speed rail and food in China, each with a last-updated date.
+- language).
 - [IATA Travel Centre](https://www.iatatravelcentre.com/) — Passport/visa requirements checker used by airlines.
 - [Trip.com China visa info hub](https://www.trip.com/) — Practical booking + entry tips (cross-check officially).
 
