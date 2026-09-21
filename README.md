@@ -46,6 +46,7 @@ Policies change — always verify with an embassy or [China National Immigration
 
 ## 📚 Complete Guides
 
+- [17Talk — China Guides for Foreigners](https://17talk.org/guides) — Practical, source-cited guides on mobile payments, SIM cards, high-speed rail and food in China, each with a last-updated date.
 - [China Survival Kit](https://chinasurvivalkit.com) ⭐ - **All-in-one guide with 15+ interactive tools** - Essential apps setup, payment guides, emergency cards, offline maps
 - [The China Travel Guide](https://www.travelchinaguide.com/) - Comprehensive travel information
 - [China Highlights](https://www.chinahighlights.com/) - Tour planning and travel tips
