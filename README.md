@@ -94,6 +94,7 @@ Policies change — always verify with an embassy or [China National Immigration
 - **Pleco** - [iOS](https://apps.apple.com/app/pleco/id341922306) | [Android](https://play.google.com/store/apps/details?id=com.pleco.chinesesystem) - Best Chinese dictionary
 - **Microsoft Translator** - [iOS](https://apps.apple.com/app/microsoft-translator/id1018949559) - Works without VPN
 - **Baidu Translate (百度翻译)** - [iOS](https://apps.apple.com/app/百度翻译/id605670941) - Local alternative
+- **Tova Translate** - [iOS](https://apps.apple.com/app/tova-translate/id6764455741) - Offline translation that works without VPN; camera translation with pinyin over each character
 
 ## 💰 Payment Setup
 
