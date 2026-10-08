@@ -201,6 +201,7 @@ Policies change — always verify with an embassy or [China National Immigration
 - [Get Your Guide - China](https://www.getyourguide.com/china/) - Tours and activities
 - [Viator China Tours](https://www.viator.com/China/d99) - Organized tours
 - [China Discovery](https://www.chinadiscovery.com/) - Tour packages
+- [Simple China Trip](https://simplechinatrip.com/guides/) - Free step-by-step guides to booking the Forbidden City, Terracotta Army, Panda Base and 130+ attractions with a foreign passport, plus a ticket release-times table. Some booking links are disclosed affiliate links.
 
 ### City Guides
 - [Beijing Tourism](http://english.visitbeijing.com.cn/) - Official Beijing guide
