@@ -51,6 +51,7 @@ Policies change — always verify with an embassy or [China National Immigration
 - [China Highlights](https://www.chinahighlights.com/) - Tour planning and travel tips
 - [WikiTravel China](https://wikitravel.org/en/China) - Community-driven travel guide
 - [Lonely Planet China](https://www.lonelyplanet.com/china) - Professional travel guide
+- [TripInfoHub](https://tripinfohub.com/) - Multilingual China itineraries, city guides, and practical transport and luggage planning
 
 ## 📱 Essential Apps
 
