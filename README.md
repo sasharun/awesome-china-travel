@@ -191,6 +191,7 @@ Policies change — always verify with an embassy or [China National Immigration
 ### Online Resources
 - [Chinese Grammar Wiki](https://resources.allsetlearning.com/chinese/grammar/) - Comprehensive grammar guide
 - [Mandarin Chinese Dictionary](https://www.mdbg.net/chinese/dictionary) - Online dictionary
+- [Rolko](https://www.rolko.xyz/chinese-popup-dictionary-for-websites) - Chinese reading and vocabulary review in a web app, with a public lookup demo. Basic lookup is free; saving new words requires a paid plan.
 - [Hanzi Grids](https://www.hanzigrids.com/) - Character writing practice
 - [FluentU Chinese](https://www.fluentu.com/chinese/) - Video-based learning
 
