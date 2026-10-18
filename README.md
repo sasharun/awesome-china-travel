@@ -300,6 +300,8 @@ Policies change — always verify with an embassy or [China National Immigration
 
 ---
 
+- [China Abroad Guide — EOR Cost Calculator](https://chinaabroadguide.com/eor-cost-calculator/) — Free estimator for employer-of-record / cross-border hiring cost (no signup).
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
