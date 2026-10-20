@@ -101,6 +101,7 @@ Policies change — always verify with an embassy or [China National Immigration
 - [WeChat Pay for Foreigners](https://pay.weixin.qq.com/index.php/public/wechatpay_en) - Official guide
 - [How to Set Up Alipay as a Foreigner](https://www.thatsmandarin.com/resources/how-to-set-up-alipay/) - Step-by-step tutorial
 - [China Payment Guide for Tourists](https://www.chinahighlights.com/travelguide/transportation/payment-methods.htm) - Overview of options
+- [China Footnotes: Paying in China](https://chinafootnotes.com/before-you-go/payments) - Setting up Alipay and WeChat Pay with a foreign card: fees above ¥200, payment limits, tapping a card and when to carry cash. Each point links its official source and the date it was checked.
 
 ## 🚇 Transportation
 
