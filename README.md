@@ -109,6 +109,7 @@ Policies change — always verify with an embassy or [China National Immigration
 - [China Train Guide](https://www.chinahighlights.com/china-trains/) - Types of trains explained
 - [Trip.com Train Booking](https://www.trip.com/trains/) - English booking interface
 - [Seat 61 - China](https://www.seat61.com/China.htm) - Detailed train travel guide
+- [Paper train tickets and passport gates](https://chinatraveldecisions.com/china-train-paper-ticket-foreign-passport/) - When a China Railway e-ticket is enough, and what to do at the station if the passport reader does not open the gate
 
 ### City Transport
 - [Beijing Subway Map](http://www.bjsubway.com/en/) - Official English map
