@@ -292,6 +292,7 @@ Policies change — always verify with an embassy or [China National Immigration
 - [Chinese Visa Photo Tool](https://www.persofoto.com/passport-photos/visa/visa-china) - Visa photo requirements
 - [Pinyin Converter](https://www.chineseconverter.com/en/convert/chinese-to-pinyin) - Chinese to Pinyin
 - [Chinese Name Generator](https://www.chinese-name-generator.com/) - Get a Chinese name
+- [FindChineseName](https://findchinesename.com) - Get a natural, native-style Chinese name (not a transliteration) with pinyin and meaning for introductions, WeChat and business cards; basic result free, no account
 
 ### Business Tools
 - [China Tax Calculator](https://www.china-briefing.com/news/china-individual-income-tax-calculator/) - IIT calculator
