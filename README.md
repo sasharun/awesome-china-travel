@@ -282,6 +282,7 @@ Policies change — always verify with an embassy or [China National Immigration
 ## 🔧 Tools & Utilities
 
 ### Practical Tools
+- [chinamapbook](https://chinamapbook.com/) - Free browser-based sightseeing planner for first-time China trips: save sights, food, and notes on a map, then export a place-organized PDF with Chinese names for offline use or printing. Planning tool; not live navigation or booking.
 - [China Survival Kit](https://chinasurvivalkit.com) - Interactive tools: currency converter, size converter, taxi cards, allergy cards
 - [XE Currency](https://www.xe.com/currency/cny-chinese-yuan/) - CNY exchange rates
 - [Time Zone Converter](https://www.timeanddate.com/worldclock/china) - China time zones
