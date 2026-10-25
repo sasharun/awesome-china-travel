@@ -47,6 +47,7 @@ Policies change — always verify with an embassy or [China National Immigration
 ## 📚 Complete Guides
 
 - [China Survival Kit](https://chinasurvivalkit.com) ⭐ - **All-in-one guide with 15+ interactive tools** - Essential apps setup, payment guides, emergency cards, offline maps
+- [chinamapbook](https://chinamapbook.com/) - Map-based China trip planning: save sights, food and notes, then export a personal PDF organized by place with Chinese names for offline use or printing.
 - [The China Travel Guide](https://www.travelchinaguide.com/) - Comprehensive travel information
 - [China Highlights](https://www.chinahighlights.com/) - Tour planning and travel tips
 - [WikiTravel China](https://wikitravel.org/en/China) - Community-driven travel guide
