@@ -174,6 +174,7 @@ Policies change — always verify with an embassy or [China National Immigration
 - [NordVPN](https://nordvpn.com/) - Good backup option
 - [Astrill](https://www.astrill.com/) - Popular among expats
 - [VyprVPN](https://www.vyprvpn.com/) - Chameleon protocol for China
+- [Just My Socks](https://justmysockss3.net/justmysocks-coupon-en) - Shadowsocks/VLESS subscription that works in Clash and Shadowrocket, good as a cheap backup
 
 ### Internet Resources
 - [GreatFire.org](https://en.greatfire.org/analyzer) - Check website accessibility
