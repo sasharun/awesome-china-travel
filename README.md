@@ -109,6 +109,7 @@ Policies change — always verify with an embassy or [China National Immigration
 - [China Train Guide](https://www.chinahighlights.com/china-trains/) - Types of trains explained
 - [Trip.com Train Booking](https://www.trip.com/trains/) - English booking interface
 - [Seat 61 - China](https://www.seat61.com/China.htm) - Detailed train travel guide
+- [China Bullet Train Network Planner](https://chinatrippackages.com/tools/china-bullet-train-network-planner/) - Compare eight example rail routes; check current schedules and fares with the operator (contains affiliate booking links)
 
 ### City Transport
 - [Beijing Subway Map](http://www.bjsubway.com/en/) - Official English map
