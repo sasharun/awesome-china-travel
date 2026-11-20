@@ -287,6 +287,7 @@ Policies change — always verify with an embassy or [China National Immigration
 - [Time Zone Converter](https://www.timeanddate.com/worldclock/china) - China time zones
 - [Chinese Calendar](https://www.travelchinaguide.com/essential/holidays/) - Public holidays
 - [Air Quality Index](https://aqicn.org/map/china/) - Real-time air quality
+- [China Travel Data](https://github.com/baisi661114-ship-it/china-travel-data) - Open reference tables: 40+ city metro networks, airport lines and fares, a printable toilet phrase card, and a pre-trip checklist
 
 ### Document Tools
 - [Chinese Visa Photo Tool](https://www.persofoto.com/passport-photos/visa/visa-china) - Visa photo requirements
