@@ -174,6 +174,7 @@ Policies change — always verify with an embassy or [China National Immigration
 - [NordVPN](https://nordvpn.com/) - Good backup option
 - [Astrill](https://www.astrill.com/) - Popular among expats
 - [VyprVPN](https://www.vyprvpn.com/) - Chameleon protocol for China
+- [Tsuki (月兔 VPN)](https://buddahs-temptation.win/tsuki) - Traffic-based proxy subscriptions for compatible iOS, Android, Windows and macOS clients, starting at CNY 12 for 30 days with 100G per 30 days
 
 ### Internet Resources
 - [GreatFire.org](https://en.greatfire.org/analyzer) - Check website accessibility
