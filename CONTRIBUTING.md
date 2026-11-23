@@ -1,70 +1,36 @@
 # Contributing to Awesome China Travel
 
-Thank you for considering contributing to this list! Every contribution helps travelers have a better experience in China.
+Thank you for helping keep **Awesome China Travel** accurate and practical for visitors and expats in China!
 
-## How to Contribute
+Because this repository receives a high volume of commercial link submissions, we apply a **conservative curation bar**.
 
-### Adding a Resource
+## What We Accept
 
-1. Check that the resource isn't already listed
-2. Make sure the resource is genuinely useful for travelers in China
-3. Add it to the appropriate section
-4. Keep descriptions concise and informative
-5. Follow the existing format
+- **Official sources** (NIA, embassies, 12306, municipal metro/tourism portals, official app store pages)
+- **Well-established platforms & tools** widely used by travelers in China
+- **Free, non-promotional, source-cited utilities or guides** that solve a specific pain point not already covered (for example: passport attraction booking, foreign-card payment limits, rail gate logistics)
+- **Fixes for broken links, shut-down services, or outdated policies** (always welcome!)
 
-### Format Guidelines
+## What We Do NOT Accept
 
-Each entry should follow this format:
+- Links containing `utm_*`, `ref=`, `source=`, coupon codes, or affiliate redirects
+- Unverified VPN/proxy resellers, airport/relay subscriptions, or paid eSIM promos
+- Duplicate submissions (please do not open multiple PRs/Issues for the same site)
+- General SEO travel blogs duplicating existing guides or early prototypes with no community track record
+- Off-topic commercial services (e.g., B2B HR/EOR calculators, unrelated global apps)
+
+## Format Guidelines
+
+Submit **one resource per PR** in the most relevant section:
+
 ```markdown
-- [Resource Name](URL) - Brief description explaining why it's useful
+- [Resource Name](https://example.com/) - Concise, neutral one-line description of what it helps with.
 ```
 
 For apps:
+
 ```markdown
-- **App Name** - [iOS](ios-link) | [Android](android-link) - Brief description
+- **App Name** - [iOS](https://apps.apple.com/app/id...) | [Android](https://play.google.com/store/apps/details?id=...) - Brief description.
 ```
 
-### Quality Standards
-
-Resources should be:
-- **Relevant**: Directly useful for travelers or expats in China
-- **Accessible**: Currently available and maintained
-- **Quality**: Provides genuine value, not just SEO spam
-- **Accurate**: Information is current and correct
-
-### What NOT to Include
-
-- Affiliate links without disclosure
-- Outdated or broken resources  
-- Duplicate content
-- Overly promotional content
-- Political content or discussions
-
-## Pull Request Process
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b add-amazing-resource`)
-3. Add your resource(s) to the appropriate section
-4. Update the table of contents if adding a new section
-5. Commit your changes (`git commit -am 'Add amazing resource'`)
-6. Push to the branch (`git push origin add-amazing-resource`)
-7. Create a new Pull Request
-
-## Code of Conduct
-
-### Our Standards
-
-- Be respectful and inclusive
-- Focus on helping travelers, not promoting products
-- Provide constructive feedback
-- Accept feedback gracefully
-
-### Scope
-
-This Code of Conduct applies within all project spaces, including issues, pull requests, and social media discussions about the project.
-
-## Questions?
-
-Feel free to open an issue if you have questions or need clarification about contributing.
-
-Thank you for making travel in China easier for everyone! 🇨🇳
+If you are affiliated with the site or app you submit, please state that clearly in the PR description (`Disclosure: I maintain this project`). Honest disclosure is appreciated.

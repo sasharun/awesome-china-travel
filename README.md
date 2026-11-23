@@ -1,24 +1,33 @@
 # Awesome China Travel 🇨🇳 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Stars](https://img.shields.io/github/stars/sasharun/awesome-china-travel?style=social)](https://github.com/sasharun/awesome-china-travel) ![Last update](https://img.shields.io/badge/last%20update-2026--07-blue.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+[![Stars](https://img.shields.io/github/stars/sasharun/awesome-china-travel?style=social)](https://github.com/sasharun/awesome-china-travel) ![Last update](https://img.shields.io/badge/last%20update-2026--11-blue.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg) ![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)
 
-> A curated list of essential resources, tools, and guides for traveling and living in China as a foreigner
+> A curated, link-verified list of essential resources, apps, official policies, and practical tools for traveling and living in China as a foreigner.
 
+---
 
-## 🛂 Visa & Entry (2025–2026)
+## 🛂 Visa, Entry & Departure Tax Refund (Updated Nov 2026)
 
-Policies change — always verify with an embassy or [China National Immigration Administration](https://en.nia.gov.cn/) / airline.
+Policies evolve frequently — always verify with your local Chinese embassy, airline, or the [China National Immigration Administration (NIA)](https://en.nia.gov.cn/) before flying.
 
-- **Visa-free / transit policies** — Many nationalities now use expanded **visa-free entry** or **144-hour / 240-hour visa-free transit** at designated ports; check your passport country and city of entry before flying.
-- [China Travel Official](https://www.travelchina.gov.cn/) — Government travel information portal (availability varies by language).
-- [IATA Travel Centre](https://www.iatatravelcentre.com/) — Passport/visa requirements checker used by airlines.
-- [Trip.com China visa info hub](https://www.trip.com/) — Practical booking + entry tips (cross-check officially).
+- **30-Day Unilateral Visa-Free Entry (50 Countries)** — Ordinary passport holders from 50 countries (most of Europe including the UK, France, Germany, Italy, Spain, Switzerland, Sweden, Russia; plus Australia, New Zealand, Japan, South Korea, Canada, Brazil, Argentina, Chile, Peru, Uruguay, Saudi Arabia, etc.) can enter for up to 30 days for tourism, business, family visits, or transit. **Important:** for 48 countries the current trial runs through **December 31, 2026** (Russia through Dec 31, 2027) — check official notices for 2027 extension updates.
+  - [Shanghai Gov — 50-Country 30-Day Visa-Free List](https://english.shanghai.gov.cn/en-Individuals-ImmigrationandVisas-Visa-freepolicies/20260709/469e8c5656534926a04b31a1084351f0.html)
+  - [Chinese Embassy Visa-Free FAQ (2026)](https://be.china-embassy.gov.cn/eng/lsfw/202605/t20260522_11915713.htm)
+- **240-Hour (10-Day) Visa-Free Transit (57 Countries, 65 Ports)** — Expanded in August 2026 to cover **57 countries** (including the US, UK, Canada, Mexico, Indonesia, Vietnam, and Kyrgyzstan) across **65 open entry ports** with cross-province travel permitted within designated areas, provided you hold a confirmed onward ticket to a third country/region. Hainan also operates a separate 30-day visa-free policy for **61 countries**.
+  - [NIA Official 240-Hour Visa-Free Transit Policy](https://en.nia.gov.cn/n147418/n147463/c183412/content.html)
+  - [NIA Aug 2026 Expansion Announcement (57 Transit / 61 Hainan)](https://en.nia.gov.cn/n147413/c217834/content.html)
+  - [Shanghai Gov — 240-Hour Visa-Free Transit Guide](https://english.shanghai.gov.cn/en-VisaFreeTransit/index.html)
+- [China Tours Local — Entry Checker](https://chinatourslocal.com/entry/) — Free interactive checker walking through China's four visa-free routes rule by rule, citing official NIA/MFA sources.
+- [IATA Travel Centre](https://www.iatatravelcentre.com/) — Passport and visa requirements checker backed by airline Timatic rules.
+- **Departure Tax Refund & 2026 "Instant Refund" (即买即退)** — Spend **¥200+** same-day at a designated tax-refund store (lowered from ¥500) to claim up to ~9% net VAT back (11% refund minus ~2% handling fee). Since 2026, nationwide instant refund supports cross-region port verification within 28 days of purchase. See the [State Taxation Administration Official Policy Notice](https://www.chinatax.gov.cn/eng/c101269/c5250095/content.html).
 
-**Arrival checklist:** eSIM or roaming data → Alipay/WeChat tourist payment → metro/ride-hailing → hotel registration (hotels usually handle police registration).
+**Pre-flight arrival checklist:** Buy travel eSIM or enable roaming → install & link foreign card to **Alipay + WeChat** before departure → download **Amap/Apple Maps** & offline translation → keep hotel booking + onward ticket PDFs offline (hotels normally handle police registration automatically).
+
+---
 
 ## Contents
 
-- [🛂 Visa & Entry](#-visa--entry-20252026)
+- [🛂 Visa, Entry & Departure Tax Refund](#-visa-entry--departure-tax-refund-updated-nov-2026)
 - [📚 Complete Guides](#-complete-guides)
 - [📱 Essential Apps](#-essential-apps)
   - [Super Apps](#super-apps)
@@ -33,7 +42,7 @@ Policies change — always verify with an embassy or [China National Immigration
 - [🏨 Accommodation](#-accommodation)
 - [🍜 Food & Dining](#-food--dining)
 - [🚨 Emergency Resources](#-emergency-resources)
-- [🛜 Internet & VPN](#-internet--vpn)
+- [🛜 Internet, eSIM & VPN](#-internet-esim--vpn)
 - [📖 Language Learning](#-language-learning)
 - [🎫 Tourist Attractions](#-tourist-attractions)
 - [💼 Business Travel](#-business-travel)
@@ -43,270 +52,303 @@ Policies change — always verify with an embassy or [China National Immigration
 - [📺 YouTube Channels](#-youtube-channels)
 - [💬 Communities](#-communities)
 - [🔧 Tools & Utilities](#-tools--utilities)
+- [🤝 Contributing](#-contributing)
+
+---
 
 ## 📚 Complete Guides
 
-- [China Survival Kit](https://chinasurvivalkit.com) ⭐ - **All-in-one guide with 15+ interactive tools** - Essential apps setup, payment guides, emergency cards, offline maps
-- [The China Travel Guide](https://www.travelchinaguide.com/) - Comprehensive travel information
-- [China Highlights](https://www.chinahighlights.com/) - Tour planning and travel tips
-- [WikiTravel China](https://wikitravel.org/en/China) - Community-driven travel guide
-- [Lonely Planet China](https://www.lonelyplanet.com/china) - Professional travel guide
+- [China Survival Kit](https://chinasurvivalkit.com) ⭐ - All-in-one guide with interactive tools: essential apps setup, payment guides, emergency cards, and city checklists.
+- [The China Travel Guide](https://www.travelchinaguide.com/) - Long-running comprehensive China travel and itinerary encyclopedia.
+- [China Highlights](https://www.chinahighlights.com/) - Detailed destination, train, and cultural planning guides.
+- [WikiTravel China](https://wikitravel.org/en/China) - Community-maintained travel guide.
+- [Lonely Planet China](https://www.lonelyplanet.com/china) - Classic editorial travel guide.
+
+---
 
 ## 📱 Essential Apps
 
 ### Super Apps
-- **WeChat (微信)** - [iOS](https://apps.apple.com/app/wechat/id414478124) | [Android](https://play.google.com/store/apps/details?id=com.tencent.mm) - Essential for everything: messaging, payments, mini-programs
-- **Alipay (支付宝)** - [iOS](https://apps.apple.com/app/alipay/id333206289) | [Android](https://play.google.com/store/apps/details?id=com.eg.android.AlipayGphone) - Payment, travel, utilities
+- **WeChat (微信)** - [iOS](https://apps.apple.com/app/wechat/id414478124) | [Android](https://play.google.com/store/apps/details?id=com.tencent.mm) - Messaging, QR payments, restaurant ordering, and mini-programs (essential).
+- **Alipay (支付宝)** - [iOS](https://apps.apple.com/app/alipay/id333206289) | [Android](https://play.google.com/store/apps/details?id=com.eg.android.AlipayGphone) - Easiest payment app for tourists, with built-in English UI, DiDi ride-hailing, and metro QR passes.
 
 ### Payment
-- **WeChat Pay** - Integrated in WeChat, most widely accepted
-- **Alipay** - Standalone app with more features for tourists
-- **UnionPay** - [Official Site](https://www.unionpayintl.com/en/) - International card support
-- **Apple Pay** - Limited support but growing in major cities
+- **Alipay** - Supports international Visa, Mastercard, JCB, Discover, and Diners Club cards (setup before flying).
+- **WeChat Pay** - Integrated in WeChat, accepts foreign cards for merchant QR payments across China.
+- **UnionPay International** - [Official Site](https://www.unionpayintl.com/en/) - International UnionPay cards avoid the 3% surcharge on payments over ¥200 in mainland apps.
+- **Apple Pay** - Works at select transit gates (e.g., Beijing/Shanghai transit cards in Apple Wallet) and international chains, though QR payments dominate.
 
 ### Transportation
-- **DiDi (滴滴出行)** - [iOS](https://apps.apple.com/app/didi/id553180664) | [Android](https://play.google.com/store/apps/details?id=com.sdu.didi.psnger) - China's Uber, English support available
-- **Amap/Gaode Maps (高德地图)** - [iOS](https://apps.apple.com/app/amap/id461703208) | [Android](https://play.google.com/store/apps/details?id=com.autonavi.minimap) - Best for navigation
-- **Baidu Maps (百度地图)** - [iOS](https://apps.apple.com/app/baidu-maps/id452186370) | [Android](https://play.google.com/store/apps/details?id=com.baidu.BaiduMap) - Alternative navigation
-- **12306 China Railway** - [iOS](https://apps.apple.com/app/铁路12306/id564818797) | [Android](https://kyfw.12306.cn/otn/appDownload/init) - Official train booking
-- **China Metro** - [iOS](https://apps.apple.com/app/china-metro/id545914234) | [Android](https://play.google.com/store/apps/details?id=com.xinlukou.metroman) - Subway maps for all cities
+- **DiDi China (滴滴出行)** - [iOS](https://apps.apple.com/app/id554499054) | [Android](https://play.google.com/store/apps/details?id=com.sdu.didi.psnger) | [Official Site](https://www.didiglobal.com/) - China's main ride-hailing app (also usable in English directly inside the Alipay mini-program without a Chinese phone number).
+- **Amap / Gaode Maps (高德地图)** - [iOS](https://apps.apple.com/app/amap/id461703208) | [Android](https://play.google.com/store/apps/details?id=com.autonavi.minimap) - Best domestic routing, metro exits, and live traffic; now offers an English interface mode.
+- **Baidu Maps (百度地图)** - [iOS](https://apps.apple.com/app/baidu-maps/id452186370) | [Android](https://play.google.com/store/apps/details?id=com.baidu.BaiduMap) - Comprehensive POI database and alternative navigation.
+- **Railway 12306 (铁路12306)** - [iOS](https://apps.apple.com/app/id564818797) | [Android](https://kyfw.12306.cn/otn/appDownload/init) - Official China Railway ticket app (English UI + foreign passport verification supported).
+- **MetroMan** - [Web / Apps](https://www.metroman.cn/en) | [Android](https://play.google.com/store/apps/details?id=com.xinlukou.metroman) - Clean English metro maps and fare planners for 40+ Chinese cities.
 
 ### Food & Delivery
-- **Meituan (美团)** - [iOS](https://apps.apple.com/app/美团/id423084029) | [Android](https://play.google.com/store/apps/details?id=com.sankuai.meituan) - Food delivery, reviews, bookings
-- **Ele.me (饿了么)** - [iOS](https://apps.apple.com/app/饿了么/id507161324) | [Android](https://play.google.com/store/apps/details?id=me.ele) - Food delivery platform
-- **Dianping (大众点评)** - Integrated in Meituan - Restaurant reviews and deals
-- **Sherpa's** - [iOS](https://apps.apple.com/app/sherpas/id513873863) - International food delivery in major cities
+- **Meituan (美团)** - [iOS](https://apps.apple.com/app/id423084029) | [Android](https://play.google.com/store/apps/details?id=com.sankuai.meituan) - Leading food delivery, restaurant deals, and hotel/ticket bookings.
+- **Taobao Instant / Ele.me (淘宝闪购·饿了么)** - [iOS](https://apps.apple.com/app/id507161324) - Major food and grocery delivery platform (also accessible inside Alipay).
+- **Dianping (大众点评)** - Restaurant reviews, menus, and local food rankings (searchable inside WeChat/Meituan).
 
 ### Communication
-- **Skype** - Works without VPN for calls
-- **Microsoft Teams** - Business communication without VPN
-- **DingTalk (钉钉)** - [iOS](https://apps.apple.com/app/dingtalk/id930368978) - Business communication in China
-- **QQ** - [iOS](https://apps.apple.com/app/qq/id444934666) | [Android](https://play.google.com/store/apps/details?id=com.tencent.mobileqq) - Alternative to WeChat
+- **Microsoft Teams** - Reliable business messaging and calls without VPN.
+- **DingTalk (钉钉)** - [iOS](https://apps.apple.com/app/dingtalk/id930368978) - Widely used workplace messaging app in China.
+- **QQ** - [iOS](https://apps.apple.com/app/qq/id444934666) | [Android](https://play.google.com/store/apps/details?id=com.tencent.mobileqq) - Legacy Tencent messenger still used for file transfer and some local services.
+
+> Note: Skype was permanently shut down by Microsoft in May 2025 and has been removed from this list.
 
 ### Navigation
-- **Baidu Maps** - Most comprehensive local data
-- **Amap** - Best routing algorithms
-- **Apple Maps** - Works well in major cities
-- **Maps.me** - [iOS](https://apps.apple.com/app/maps-me/id510623322) | [Android](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro) - Offline maps
+- **Apple Maps** - Uses AutoNavi (Amap) data inside mainland China — accurate English maps and transit routing on iOS without VPN.
+- **Amap (Gaode Maps)** - Best all-around routing and English-mode local search.
+- **Baidu Maps** - Most comprehensive local business listings.
+- **Maps.me** - [iOS](https://apps.apple.com/app/maps-me/id510623322) | [Android](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro) - Downloadable offline OpenStreetMap backup.
 
 ### Translation
-- **Google Translate** - [iOS](https://apps.apple.com/app/google-translate/id414706506) | [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.translate) - Works offline, camera translation
-- **Pleco** - [iOS](https://apps.apple.com/app/pleco/id341922306) | [Android](https://play.google.com/store/apps/details?id=com.pleco.chinesesystem) - Best Chinese dictionary
-- **Microsoft Translator** - [iOS](https://apps.apple.com/app/microsoft-translator/id1018949559) - Works without VPN
-- **Baidu Translate (百度翻译)** - [iOS](https://apps.apple.com/app/百度翻译/id605670941) - Local alternative
+- **Pleco** - [iOS](https://apps.apple.com/app/pleco/id341922306) | [Android](https://play.google.com/store/apps/details?id=com.pleco.chinesesystem) - Gold-standard offline Chinese dictionary with OCR and handwriting lookup.
+- **Microsoft Translator** - [iOS](https://apps.apple.com/app/microsoft-translator/id1018949559) - Works in mainland China without VPN; great for conversation and menu camera translation.
+- **Baidu Translate (百度翻译)** - [iOS](https://apps.apple.com/app/id605670941) - Fast domestic translator with strong Chinese idiom and menu recognition.
+- **Google Translate** - [iOS](https://apps.apple.com/app/google-translate/id414706506) | [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.translate) - Download the offline Chinese language pack **before** arriving (online mode requires VPN/roaming).
+
+---
 
 ## 💰 Payment Setup
 
-- [Alipay International Guide](https://intl.alipay.com/) - Official setup for foreigners
-- [WeChat Pay for Foreigners](https://pay.weixin.qq.com/index.php/public/wechatpay_en) - Official guide
-- [How to Set Up Alipay as a Foreigner](https://www.thatsmandarin.com/resources/how-to-set-up-alipay/) - Step-by-step tutorial
-- [China Payment Guide for Tourists](https://www.chinahighlights.com/travelguide/transportation/payment-methods.htm) - Overview of options
+Foreign visitors no longer need a Chinese bank account: link your Visa, Mastercard, or Amex to **Alipay** and **WeChat Pay** before departure and complete passport verification in-app. Single payments of **¥200 or less** waive the 3% international card platform fee; payments above ¥200 incur a 3% fee (your card issuer's FX fee may apply separately). Keep a small amount of RMB cash (~¥300–500) as backup.
+
+- [Alipay International Guide](https://intl.alipay.com/) - Official Alipay international services portal.
+- [WeChat Pay for Foreigners](https://pay.weixin.qq.com/index.php/public/wechatpay_en) - Official WeChat Pay foreign-card guide.
+- [China Footnotes: Paying in China](https://chinafootnotes.com/before-you-go/payments) - Thorough, date-checked breakdown of Alipay & WeChat Pay foreign-card fees, spending limits, and practical fallback tips.
+- [TravelChinaGuide Essential Tips](https://www.travelchinaguide.com/essential/) - Practical overview of money, ATMs, SIMs, and everyday logistics.
+
+---
 
 ## 🚇 Transportation
 
 ### Train Travel
-- [12306 Official Website](https://www.12306.cn/) - Chinese railway official site
-- [China Train Guide](https://www.chinahighlights.com/china-trains/) - Types of trains explained
-- [Trip.com Train Booking](https://www.trip.com/trains/) - English booking interface
-- [Seat 61 - China](https://www.seat61.com/China.htm) - Detailed train travel guide
+- [12306 Official English Portal](https://www.12306.cn/en/index.html) - Official China Railway English site (no booking markup; supports foreign passports & foreign cards).
+- [Trip.com Train Booking](https://www.trip.com/trains/) - Easiest English UI with small service fee and automatic ticket-release pre-booking.
+- [The Man in Seat 61 — China](https://www.seat61.com/China.htm) - Deeply practical rail guide covering train classes, sleeper berths, and stations.
+- [China Train Guide (China Highlights)](https://www.chinahighlights.com/china-trains/) - Visual explanation of G/D/C/Z/T/K train types and baggage rules.
+- [Paper Train Tickets & Passport Gates](https://chinatraveldecisions.com/china-train-paper-ticket-foreign-passport/) - Clear guide to when foreign passports scan directly at automated e-ticket gates vs. when manual lane verification or printed receipts are needed.
 
 ### City Transport
-- [Beijing Subway Map](http://www.bjsubway.com/en/) - Official English map
-- [Shanghai Metro](http://www.shmetro.com/en/) - Official guide
-- [Guangzhou Metro](http://www.gzmtr.com/en/) - English information
-- [Shenzhen Metro](https://www.szmc.net/en/) - Route planner
+- [Beijing Subway](https://www.bjsubway.com/en/) - Official Beijing metro English portal and maps.
+- [Shanghai Metro](https://service.shmetro.com/en/) - Official Shanghai metro English route and fare guide.
+- [Guangzhou Metro](https://www.gzmtr.com/) - Official Guangzhou metro site.
+- [Shenzhen Metro](https://www.szmc.net/) - Official Shenzhen metro site.
+- [MetroMan China](https://www.metroman.cn/en) - English subway route planner across 40+ Chinese cities.
 
 ### Air Travel
-- [CAAC (Civil Aviation Administration)](http://www.caac.gov.cn/en/) - Official aviation info
-- [FlightStats China](https://www.flightstats.com/v2/flight-tracker/search) - Real-time flight tracking
-- [China Southern Airlines](https://www.csair.com/en/) - Major domestic carrier
-- [Air China](https://www.airchina.com.cn/en/) - National carrier
+- [CAAC (Civil Aviation Administration)](http://www.caac.gov.cn/en/) - Official aviation authority info.
+- [FlightStats](https://www.flightstats.com/v2/flight-tracker/search) - Real-time flight status tracking.
+- [Air China](https://www.airchina.us/) - Flag carrier international English site.
+- [China Southern Airlines](https://www.csair.com/en/) - Major domestic and international carrier.
+- [China Eastern Airlines](https://www.ceair.com/) - Major Shanghai-based carrier.
+
+---
 
 ## 🏨 Accommodation
 
 ### Booking Platforms
-- [Trip.com](https://www.trip.com/) - Best for China hotels
-- [Agoda](https://www.agoda.com/) - Good Asia coverage
-- [Booking.com](https://www.booking.com/) - Works with VPN
-- [Airbnb China](https://www.airbnb.cn/) - Limited but available
+- [Trip.com Hotels](https://www.trip.com/hotels/) - Best inventory and English support for hotels in China that reliably accept foreign passports.
+- [Agoda](https://www.agoda.com/) - Strong Asia coverage and competitive international-chain rates.
+- [Booking.com](https://www.booking.com/) - Familiar international interface (requires VPN or roaming data inside China).
+
+> Note: Airbnb discontinued domestic mainland China listings in 2022.
 
 ### Hotel Chains
-- [Huazhu Hotels](https://www.huazhu.com/en/) - Major Chinese chain
-- [Jin Jiang Hotels](https://www.jinjianghotels.com.cn/) - Extensive network
-- [Home Inn](https://www.homeinns.com/) - Budget chain
+- [H World / Huazhu Hotels](https://www.hworld.com/) - Major Chinese hotel group (Ji Hotel, Atour-tier midscale, Orange, Hanting).
+- [Jin Jiang Hotels](https://www.jinjianghotels.com.cn/) - Extensive nationwide hotel network.
+- [Home Inn](https://www.homeinns.com/) - Budget hotel chain across China.
+
+---
 
 ## 🍜 Food & Dining
 
 ### Food Guides
-- [Serious Eats - Chinese Food](https://www.seriouseats.com/chinese-food-5117315) - Regional cuisine guide
-- [China Food Guide](https://www.chinafoodguide.com/) - Comprehensive food resource
-- [Lost Plate](https://www.lostplate.com/) - Food tours and guides
+- [Lost Plate](https://www.lostplate.com/) - Local food tours and regional culinary guides across major Chinese cities.
 
 ### Dietary Restrictions
-- [Vegetarian China](https://www.happycow.net/asia/china/) - Vegetarian restaurant finder
-- [Celiac Travel - China](https://www.celiactravel.com/cards/chinese/) - Gluten-free dining cards
-- [Halal Trip - China](https://www.halaltrip.com/other/china/) - Halal food guide
+- [HappyCow — Vegetarian China](https://www.happycow.net/asia/china/) - Vegetarian and vegan restaurant finder across Chinese cities.
+- [Celiac Travel — Chinese Gluten-Free Card](https://www.celiactravel.com/cards/chinese/) - Printable gluten-free dining explanation card in Chinese.
+- [Halal Trip — China](https://www.halaltrip.com/other/china/) - Halal dining and mosque directory for China.
+
+---
 
 ## 🚨 Emergency Resources
 
-- **Police:** 110
-- **Fire:** 119
-- **Ambulance:** 120
-- **Traffic Accident:** 122
-- [US Embassy Beijing](https://china.usembassy-china.org.cn/) - Consular services
-- [UK Embassy Beijing](https://www.gov.uk/world/organisations/british-embassy-beijing) - British consular services
-- [SOS International](https://www.internationalsos.com/) - Medical emergency services
-- [China Emergency Cards PDF](https://example.com) - Printable emergency phrases
+- **Police:** `110`
+- **Fire:** `119`
+- **Ambulance:** `120`
+- **Traffic Accident:** `122`
+- **National Immigration Administration 24/7 Hotline:** `12367` (English & multilingual immigration/visa inquiries)
+- [US Embassy & Consulates in China](https://china.usembassy-china.org.cn/) - American citizen consular services.
+- [British Embassy Beijing](https://www.gov.uk/world/organisations/british-embassy-beijing) - UK consular services.
+- [Ministry of Foreign Affairs of China](https://www.mfa.gov.cn/eng/) - Official foreign affairs portal.
+- [International SOS](https://www.internationalsos.com/) - Global medical and travel security assistance.
 
-## 🛜 Internet & VPN
+---
 
-### eSIM & data (before you land)
+## 🛜 Internet, eSIM & VPN
 
-- [Airalo](https://www.airalo.com/) — Travel eSIM marketplace (China packages vary by time).
-- [Holafly](https://esim.holafly.com/) — Unlimited-style travel eSIMs (verify China coverage).
-- [Trip.com eSIM](https://www.trip.com/) — English UI data eSIMs for China.
-- Carrier roaming — Enable before departure as backup if eSIM fails at the airport.
+### Travel eSIM & Roaming (Simplest for Short Trips)
+Travel eSIMs and international carrier roaming route data outside mainland China, so **Google, WhatsApp, Instagram, and Gmail work automatically without a separate VPN**.
 
+- [Airalo](https://www.airalo.com/) — Popular travel eSIM marketplace (China and Asia regional plans).
+- [Holafly](https://esim.holafly.com/) — Unlimited-data travel eSIMs for China.
+- [Trip.com eSIM](https://www.trip.com/) — Affordable Hong Kong / Mainland China roaming data eSIMs in an English UI.
+- **Home carrier roaming** — Enable an international day pass as a backup before flying in case eSIM activation fails at the airport.
 
+### VPN Services (Install & Test Before Landing)
+Needed if you rely on hotel/cafe WiFi or a local mainland SIM card.
 
-### VPN Services (Use before arriving)
-- [ExpressVPN](https://www.expressvpn.com/) ⭐ - Most reliable for China
-- [NordVPN](https://nordvpn.com/) - Good backup option
-- [Astrill](https://www.astrill.com/) - Popular among expats
-- [VyprVPN](https://www.vyprvpn.com/) - Chameleon protocol for China
+- [Astrill](https://www.astrill.com/) - Longtime expat favorite for desktop/mobile stability in China.
+- [ExpressVPN](https://www.expressvpn.com/) - Well-known mainstream option (performance varies by season; check recent r/travelchina threads).
+- [NordVPN](https://nordvpn.com/) - Mainstream VPN backup (often less consistent in China than eSIM roaming).
+- [VyprVPN](https://www.vyprvpn.com/) - Chameleon protocol option.
 
 ### Internet Resources
-- [GreatFire.org](https://en.greatfire.org/analyzer) - Check website accessibility
-- [China WiFi Guide](https://www.travelchinaguide.com/essential/wifi.htm) - Public WiFi information
-- [China Mobile](https://www.chinamobileltd.com/) - Prepaid SIM cards
+- [GreatFire Analyzer](https://en.greatfire.org/analyzer) - Check real-time website accessibility from mainland China.
+- [China Mobile](https://www.chinamobileltd.com/) - Largest mainland carrier (airport tourist SIM counters available for longer stays requiring a `+86` SMS number).
+
+---
 
 ## 📖 Language Learning
 
 ### Apps
-- [HelloChinese](https://www.hellochinese.cc/) - Best for beginners
-- [HSK Online](https://www.hsk.academy/) - HSK test preparation
-- [Du Chinese](https://www.duchinese.net/) - Reading practice
-- [ChinesePod](https://www.chinesepod.com/) - Podcast lessons
+- [HelloChinese](https://www.hellochinese.cc/) - Best structured Mandarin app for beginners.
+- [HSK Online](https://www.hsk.academy/) - HSK vocabulary and exam preparation.
+- [Du Chinese](https://www.duchinese.net/) - Graded Mandarin reading practice with audio and pinyin toggle.
+- [ChinesePod](https://www.chinesepod.com/) - Long-running podcast lessons by level.
 
 ### Online Resources
-- [Chinese Grammar Wiki](https://resources.allsetlearning.com/chinese/grammar/) - Comprehensive grammar guide
-- [Mandarin Chinese Dictionary](https://www.mdbg.net/chinese/dictionary) - Online dictionary
-- [Hanzi Grids](https://www.hanzigrids.com/) - Character writing practice
-- [FluentU Chinese](https://www.fluentu.com/chinese/) - Video-based learning
+- [Chinese Grammar Wiki](https://resources.allsetlearning.com/chinese/grammar/) - Clear, example-rich Mandarin grammar reference.
+- [MDBG Chinese Dictionary](https://www.mdbg.net/chinese/dictionary) - Fast online English-Chinese dictionary with stroke order.
+- [Hanzi Grids](https://www.hanzigrids.com/) - Printable character-writing practice sheets.
+- [FluentU Chinese](https://www.fluentu.com/chinese/) - Video-based listening practice.
+
+---
 
 ## 🎫 Tourist Attractions
 
-### Booking & Information
-- [China UNESCO Sites](https://whc.unesco.org/en/statesparties/cn) - World Heritage sites
-- [Get Your Guide - China](https://www.getyourguide.com/china/) - Tours and activities
-- [Viator China Tours](https://www.viator.com/China/d99) - Organized tours
-- [China Discovery](https://www.chinadiscovery.com/) - Tour packages
+### Booking & Passport Reservation Guides
+Many top landmarks (Forbidden City, National Museum, Terracotta Army, Sanxingdui) require real-name passport reservations 3–7 days ahead.
 
-### City Guides
-- [Beijing Tourism](http://english.visitbeijing.com.cn/) - Official Beijing guide
-- [Shanghai Tourism](https://www.meet-in-shanghai.net/) - Official Shanghai guide
-- [Hong Kong Tourism Board](https://www.discoverhongkong.com/) - Official HK guide
+- [Simple China Trip — Foreigner Passport Booking Guides](https://simplechinatrip.com/guides/) - Free step-by-step passport booking guides and ticket-release times for 130+ major attractions (Forbidden City, Terracotta Army, Panda Base, etc.).
+- [UNESCO World Heritage Sites in China](https://whc.unesco.org/en/statesparties/cn) - Official list of China's World Heritage landmarks.
+- [GetYourGuide — China](https://www.getyourguide.com/china/) - English-guided tours and skip-the-line tickets.
+- [Viator — China Tours](https://www.viator.com/China/d99) - Organized tours and day trips.
+- [China Discovery](https://www.chinadiscovery.com/) - Custom tour itineraries and attraction logistics.
+
+### Official City Guides
+- [Beijing Tourism](http://english.visitbeijing.com.cn/) - Official Beijing visitor portal.
+- [Meet in Shanghai](https://www.meet-in-shanghai.net/) - Official Shanghai tourism guide.
+- [Hong Kong Tourism Board](https://www.discoverhongkong.com/) - Official Hong Kong visitor portal.
+
+---
 
 ## 💼 Business Travel
 
-- [China Briefing](https://www.china-briefing.com/) - Business news and guides
-- [CBBC (China-Britain Business Council)](https://www.cbbc.org/) - Business resources
-- [AmCham China](https://www.amchamchina.org/) - American Chamber of Commerce
-- [China Business Review](https://www.chinabusinessreview.com/) - Business insights
+- [China Briefing](https://www.china-briefing.com/) - Practical legal, tax, visa, and business regulatory briefings.
+- [CBBC (China-Britain Business Council)](https://www.cbbc.org/) - UK-China trade and business travel resources.
+- [AmCham China](https://www.amchamchina.org/) - American Chamber of Commerce in China.
+- [China Business Review](https://www.chinabusinessreview.com/) - Policy and market analysis from the US-China Business Council.
+
+---
 
 ## 🏥 Healthcare
 
-### Hospitals & Clinics
-- [United Family Healthcare](https://beijing.ufh.com.cn/) - International standard care
-- [Parkway Health](https://www.parkwayhealth.cn/en) - Expat-friendly hospitals
-- [International SOS](https://www.internationalsos.com/locations/asia-pacific/china) - Emergency medical services
+### International Hospitals & Clinics
+- [United Family Healthcare](https://beijing.ufh.com.cn/) - JCI-accredited international hospitals in Beijing, Shanghai, Guangzhou, Shenzhen, and more.
+- [Parkway Health](https://www.parkwayhealth.cn/en) - Expat-friendly international clinics in major cities.
+- [International SOS China](https://www.internationalsos.com/locations/asia-pacific/china) - Emergency medical evacuation and clinic network.
 
-### Health Resources
-- [China CDC](http://www.chinacdc.cn/en/) - Health advisories
-- [HealthCare International](https://www.healthcareinternational.com/) - Medical insurance
-- [Smart Air Filters](https://smartairfilters.com/) - Air quality solutions
+### Health & Air Quality Resources
+- [AQICN China Air Quality Map](https://aqicn.org/map/china/) - Real-time PM2.5 / AQI monitoring across Chinese cities.
+- [Smart Air Filters](https://smartairfilters.com/) - Data-backed air purifier and mask guides for long-term residents.
+
+---
 
 ## 🛍️ Shopping
 
 ### E-commerce Platforms
-- [Taobao](https://www.taobao.com/) - China's eBay (Chinese only)
-- [JD.com](https://global.jd.com/) - Electronics and genuine products
-- [Tmall](https://www.tmall.com/) - Brand flagship stores
-- [Amazon.cn](https://www.amazon.cn/) - Limited but available
+- [Taobao](https://www.taobao.com/) - China's largest marketplace (built-in English interface rolled out for select regions; overseas cards accepted).
+- [JD.com](https://global.jd.com/) - Electronics and authentic branded goods with fast delivery.
+- [Tmall](https://www.tmall.com/) - Official brand flagship stores.
 
-### Shopping Guides
-- [How to Use Taobao](https://www.howtotao.com/) - English Taobao guide
-- [Baopals](https://www.baopals.com/) - English Taobao interface
-- [China Shopping Guide](https://www.travelchinaguide.com/essential/shopping.htm) - Shopping tips
+### Shopping & Tax Refund Guides
+- [How to Use Taobao](https://www.howtotao.com/) - Step-by-step English Taobao buying guide.
+- [Baopals](https://www.baopals.com/) - English shopping interface for Taobao & Tmall with customer support.
+- [China Shopping Guide](https://www.travelchinaguide.com/essential/shopping.htm) - Bargaining tips, sizes, and souvenir advice.
+- [State Taxation Administration — Upgraded Departure Tax Refund](https://www.chinatax.gov.cn/eng/c101269/c5250153/content.html) - Official guide to the 2026 cross-region instant tax refund process.
+
+---
 
 ## 🎓 Educational Resources
 
 ### Online Courses
-- [Coursera - Chinese for Beginners](https://www.coursera.org/learn/learn-chinese) - Peking University course
-- [edX - China Courses](https://www.edx.org/learn/china) - Various China-related courses
-- [FutureLearn - Chinese Culture](https://www.futurelearn.com/subjects/history-courses/chinese-culture) - Cultural courses
+- [Coursera — Chinese for Beginners](https://www.coursera.org/learn/learn-chinese) - Peking University beginner Mandarin course.
+- [edX — Mandarin Chinese Courses](https://www.edx.org/learn/mandarin-chinese) - University-backed Chinese language and culture courses.
+- [FutureLearn — Chinese Culture](https://www.futurelearn.com/subjects/history-courses/chinese-culture) - History and culture courses.
 
 ### Cultural Resources
-- [China Culture](http://www.chinaculture.org/) - Cultural information portal
-- [Chinese Culture University](https://www.chineseculture.net/) - Cultural learning resources
-- [Asia Society](https://asiasociety.org/china) - China cultural content
+- [China Culture](http://www.chinaculture.org/) - Cultural heritage and arts portal.
+- [Asia Society — China](https://asiasociety.org/china) - Lectures, essays, and cultural programs.
+
+---
 
 ## 📺 YouTube Channels
 
-- [serpentza](https://www.youtube.com/user/serpentza) - Life in China perspectives
-- [Blondie in China](https://www.youtube.com/c/BlondieinChina) - Amy's China travel videos
-- [The Food Ranger](https://www.youtube.com/user/thefoodranger) - Chinese street food
-- [Little Chinese Everywhere](https://www.youtube.com/c/LittleChineseEverywhere) - Language and culture
-- [Gweilo 60](https://www.youtube.com/c/Gweilo60) - Senior expat perspective
+- [Blondie in China](https://www.youtube.com/@BlondieinChina) - Practical food, city travel, and modern China vlogs.
+- [Little Chinese Everywhere](https://www.youtube.com/@LittleChineseEverywhere) - Off-the-beaten-path regional travel and minority culture documentaries.
+- [The Food Ranger](https://www.youtube.com/@thefoodranger) - Regional Chinese street food explorations.
+- [Gweilo 60](https://www.youtube.com/c/Gweilo60) - Long-term expat life and everyday travel vlogs.
+
+---
 
 ## 💬 Communities
 
-### Forums & Groups
-- [r/China](https://www.reddit.com/r/China/) - General China discussion
-- [r/ChineseLanguage](https://www.reddit.com/r/ChineseLanguage/) - Language learning community
-- [r/travelchina](https://www.reddit.com/r/travelchina/) - Travel tips and advice
-- [r/shanghai](https://www.reddit.com/r/shanghai/) - Shanghai expat community
-- [r/beijing](https://www.reddit.com/r/beijing/) - Beijing expat community
+### Reddit & Online Forums
+- [r/travelchina](https://www.reddit.com/r/travelchina/) - Most active, up-to-date community for current visa, eSIM, Alipay, and itinerary Q&A.
+- [r/ChineseLanguage](https://www.reddit.com/r/ChineseLanguage/) - Mandarin learning community.
+- [r/shanghai](https://www.reddit.com/r/shanghai/) - Shanghai expat and visitor community.
+- [r/beijing](https://www.reddit.com/r/beijing/) - Beijing expat and visitor community.
+- [r/China](https://www.reddit.com/r/China/) - General China discussion.
 
-### Facebook Groups
-- China Expats & Travelers - General community
-- Beijing Expat Network - Beijing focused
-- Shanghai Expat Community - Shanghai focused
-- Teaching English in China - For English teachers
+### Local Groups
+- **WeChat Groups** — Local city expat groups, hiking/photography clubs, and industry networking groups (usually joined via personal invite).
 
-### WeChat Groups
-- Local city expat groups (search within WeChat)
-- Interest-based groups (hiking, photography, etc.)
-- Professional networking groups
+---
 
 ## 🔧 Tools & Utilities
 
 ### Practical Tools
-- [China Survival Kit](https://chinasurvivalkit.com) - Interactive tools: currency converter, size converter, taxi cards, allergy cards
-- [XE Currency](https://www.xe.com/currency/cny-chinese-yuan/) - CNY exchange rates
-- [Time Zone Converter](https://www.timeanddate.com/worldclock/china) - China time zones
-- [Chinese Calendar](https://www.travelchinaguide.com/essential/holidays/) - Public holidays
-- [Air Quality Index](https://aqicn.org/map/china/) - Real-time air quality
+- [China Survival Kit](https://chinasurvivalkit.com) - Interactive tools: currency converter, shoe/clothing size converter, taxi cards, and allergy cards.
+- [XE Currency Converter (USD to CNY)](https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=CNY) - Live CNY exchange rates.
+- [Time Zone Converter — China](https://www.timeanddate.com/worldclock/china) - China Standard Time (UTC+8 nationwide, no DST).
+- [China Public Holidays Calendar](https://www.travelchinaguide.com/essential/holidays/) - Check Golden Week (Oct 1–7) and Spring Festival dates before booking trains or hotels.
+- [AQICN China Map](https://aqicn.org/map/china/) - Real-time air quality index.
 
-### Document Tools
-- [Chinese Visa Photo Tool](https://www.persofoto.com/passport-photos/visa/visa-china) - Visa photo requirements
-- [Pinyin Converter](https://www.chineseconverter.com/en/convert/chinese-to-pinyin) - Chinese to Pinyin
-- [Chinese Name Generator](https://www.chinese-name-generator.com/) - Get a Chinese name
-
-### Business Tools
-- [China Tax Calculator](https://www.china-briefing.com/news/china-individual-income-tax-calculator/) - IIT calculator
-- [Fapiao Helper](https://www.chinafapiao.com/) - Invoice verification
-- [China Business Name Search](http://www.gsxt.gov.cn/) - Company registration check
+### Language & Utility Tools
+- [Pinyin Converter](https://www.chineseconverter.com/en/convert/chinese-to-pinyin) - Convert Chinese characters to Pinyin.
+- [Chinese Name Generator](https://www.chinese-name-generator.com/) - Generate a Chinese name with meaning.
+- [National Enterprise Credit Information Publicity System](http://www.gsxt.gov.cn/) - Official Chinese company registration lookup (Chinese UI).
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+Contributions are welcome! We keep a conservative curation bar focused on official sources, genuinely useful free tools, and non-promotional guides. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a Pull Request.
 
-Your contributions are always welcome! Please feel free to submit a Pull Request.
+---
 
-## License
+## 📈 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sasharun/awesome-china-travel&type=Date)](https://star-history.com/#sasharun/awesome-china-travel&Date)
+
+---
+
+## 📜 License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
