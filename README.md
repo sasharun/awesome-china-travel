@@ -63,6 +63,7 @@ Policies evolve frequently — always verify with your local Chinese embassy, ai
 - [China Highlights](https://www.chinahighlights.com/) - Detailed destination, train, and cultural planning guides.
 - [WikiTravel China](https://wikitravel.org/en/China) - Community-maintained travel guide.
 - [Lonely Planet China](https://www.lonelyplanet.com/china) - Classic editorial travel guide.
+• [Huaqiangbei Map](https://huaqiangbeimap.com) - English guide to Shenzhen's Huaqiangbei electronics markets.
 
 ---
 
