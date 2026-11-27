@@ -167,6 +167,7 @@ Foreign visitors no longer need a Chinese bank account: link your Visa, Masterca
 
 ### Food Guides
 - [Lost Plate](https://www.lostplate.com/) - Local food tours and regional culinary guides across major Chinese cities.
+- [China Food Passport](https://chinafoodpassport.com/?lang=en#city/chengdu) - Free English dish guides with Chinese ordering cards travelers can show at restaurants.
 
 ### Dietary Restrictions
 - [HappyCow — Vegetarian China](https://www.happycow.net/asia/china/) - Vegetarian and vegan restaurant finder across Chinese cities.
