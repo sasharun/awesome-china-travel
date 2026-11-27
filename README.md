@@ -328,6 +328,7 @@ Many top landmarks (Forbidden City, National Museum, Terracotta Army, Sanxingdui
 - [Time Zone Converter — China](https://www.timeanddate.com/worldclock/china) - China Standard Time (UTC+8 nationwide, no DST).
 - [China Public Holidays Calendar](https://www.travelchinaguide.com/essential/holidays/) - Check Golden Week (Oct 1–7) and Spring Festival dates before booking trains or hotels.
 - [AQICN China Map](https://aqicn.org/map/china/) - Real-time air quality index.
+- [China Entry & Metro Payment Open Datasets (CC BY 4.0)](https://pandawander.com/data/) - Downloadable CSV tables of the 50-country 30-day exemption expiry dates, 65 designated 240-hour transit ports with partial-province boundaries, and 8-city metro contactless/QR support (archived on Zenodo, DOI `10.5281/zenodo.24612164`).
 
 ### Language & Utility Tools
 - [Pinyin Converter](https://www.chineseconverter.com/en/convert/chinese-to-pinyin) - Convert Chinese characters to Pinyin.
