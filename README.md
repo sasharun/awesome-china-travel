@@ -18,6 +18,7 @@ Policies evolve frequently — always verify with your local Chinese embassy, ai
   - [NIA Aug 2026 Expansion Announcement (57 Transit / 61 Hainan)](https://en.nia.gov.cn/n147413/c217834/content.html)
   - [Shanghai Gov — 240-Hour Visa-Free Transit Guide](https://english.shanghai.gov.cn/en-VisaFreeTransit/index.html)
 - [China Tours Local — Entry Checker](https://chinatourslocal.com/entry/) — Free interactive checker walking through China's four visa-free routes rule by rule, citing official NIA/MFA sources.
+- [China Visa-Free Countries (JSON)](https://github.com/leo799839-boop/china-visa-free-countries) — Machine-readable list of the 50-country unilateral visa-free policy with official NIA source and validity dates (CC BY 4.0).
 - [IATA Travel Centre](https://www.iatatravelcentre.com/) — Passport and visa requirements checker backed by airline Timatic rules.
 - **Departure Tax Refund & 2026 "Instant Refund" (即买即退)** — Spend **¥200+** same-day at a designated tax-refund store (lowered from ¥500) to claim up to ~9% net VAT back (11% refund minus ~2% handling fee). Since 2026, nationwide instant refund supports cross-region port verification within 28 days of purchase. See the [State Taxation Administration Official Policy Notice](https://www.chinatax.gov.cn/eng/c101269/c5250095/content.html).
 
